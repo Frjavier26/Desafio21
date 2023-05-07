@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.icon{
+  font-size: 100px;
+  
+  padding: 0;
+  margin: 0;
+}
+.main{
+  text-align: center;
+}
+.contact{
+  text-align: center;
+  
+}
+.container{
+  background-color: rgb(234, 234, 53);
+
+}
+
